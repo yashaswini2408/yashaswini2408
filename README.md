@@ -1,7 +1,5 @@
 # Hi there 
 <br><br>Computer Science Student | passionate about programming | web development, and problem-solving.<br><br> I work with Python, Java, JavaScript, React, MySQL, HTML, and CSS.<br><br> I enjoy building real-world projects, learning new technologies, and improving my Data Structures & Algorithms skills.<br><br> Currently learning and exploring<br><br>**Learn • Build • Improve • Repeat**<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yashaswini-mb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashaswinimb24@gmail.com) 
 
