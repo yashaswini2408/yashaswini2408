@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 
 <br><br>Computer Science Student | passionate about programming | web development, and problem-solving.<br><br> I work with Python, Java, JavaScript, React, MySQL, HTML, and CSS.<br><br> I enjoy building real-world projects, learning new technologies, and improving my Data Structures & Algorithms skills.<br><br> Currently learning and exploring<br><br>**Learn • Build • Improve • Repeat**<br>
 
 
